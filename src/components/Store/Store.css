@@ -8,3 +8,25 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+
+@media (max-width: 768px) {
+    .store-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .products-container {
+      grid-template-columns: repeat(1, 1fr); 
+      margin: 20px; 
+    }
+    .card{
+        margin-right: 10px;
+        margin-left: 10px;
+        height: 350px;
+        width: 300px;
+        margin: 0 auto;
+    }
+    .card img{
+        height: 200px;
+        width: 300px;
+    }
+  }

@@ -80,7 +80,7 @@ const Store = () => {
                 </div>
               </div>
             </div>
-            <p className="text-[#0DA8CA] font-bold ml-[-70px]">Clear all</p>
+            <p className="text-[#0DA8CA] font-bold text-left ml-[60px]">Clear all</p>
           </div>
 
           <ul className="menu  w-56 ml-11 mt-7">
@@ -98,7 +98,7 @@ const Store = () => {
               </details>
             </li>
           </ul>
-          <ul className="menu  w-56 ml-11">
+          <ul className="menu  w-56 ml-11 mt-7">
             <li>
               <details open>
                 <summary className="font-bold text-[18px]">Dietary</summary>
@@ -119,8 +119,8 @@ const Store = () => {
         </div>
 
         <div>
-        <div className="flex  gap-[100px]  ml-12" >
-        <p>Show all products {filteredProducts.length}</p>
+        <div className="flex  lg:gap-[800px]  ml-12" >
+        <p className="ml-5">Show all products {filteredProducts.length}</p>
           <div>
             <label htmlFor="sort">Sort by:</label>
             <select

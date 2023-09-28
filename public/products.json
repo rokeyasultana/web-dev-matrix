@@ -43,7 +43,7 @@
         "id":6,
         "img":"https://i.ibb.co/C8QHDBp/Image6.png",
         "name":"Plain Croissant",
-        "price":"$20 / Box (8 pieces)",
+        "price":"20 / Box (8 pieces)",
         "bakery":"Minde Bakery",
         "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
     },
@@ -51,7 +51,7 @@
         "id":7,
         "img":" https://i.ibb.co/fn6cmGz/Image7.png",
         "name":"French Macaron",
-        "price":"$30 / Box (12 pieces)",
+        "price":"30 / Box (12 pieces)",
         "bakery":"Minde Bakery",
         "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
     },
@@ -59,7 +59,7 @@
         "id":8,
         "img":"https://i.ibb.co/2d226Vy/Image9.png ",
         "name":"Original Blend Coffee",
-        "price":"$12.99 / Pack",
+        "price":"12.99 / Pack",
         "bakery":"Minde Bakery",
         "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
     },
@@ -67,7 +67,7 @@
         "id":9,
         "img":"https://i.ibb.co/QnWHpRR/Image8.png ",
         "name":"Energy Cookie",
-        "price":"$28 / Box (6 pieces)",
+        "price":"28 / Box (6 pieces)",
         "bakery":"Minde Bakery",
         "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
     }
