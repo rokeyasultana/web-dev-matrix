@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "img":"https://i.ibb.co/F6xp5Xq/Image1.png",
+        "name":"Cappuccino",
+        "price":"8",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    },
+    {
+        "id":2,
+        "img":"https://i.ibb.co/3drZMmH/Image2.png",
+        "name":"Matcha Latte",
+        "price":"10",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    },
+    {
+        "id":3,
+        "img":"https://i.ibb.co/MDd8Yvx/Image3.png",
+        "name":"Golden Latte",
+        "price":"8",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    },
+    {
+        "id":4,
+        "img":"https://i.ibb.co/Y8F45P7/Image4.png",
+        "name":"Hot Chocolate",
+        "price":"12",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    },
+    {
+        "id":5,
+        "img":"https://i.ibb.co/M5Mmp3r/Image5.png",
+        "name":"Iced Latte",
+        "price":"12",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    },
+    {
+        "id":6,
+        "img":"https://i.ibb.co/C8QHDBp/Image6.png",
+        "name":"Plain Croissant",
+        "price":"$20 / Box (8 pieces)",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    },
+    {
+        "id":7,
+        "img":" https://i.ibb.co/fn6cmGz/Image7.png",
+        "name":"French Macaron",
+        "price":"$30 / Box (12 pieces)",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    },
+    {
+        "id":8,
+        "img":"https://i.ibb.co/2d226Vy/Image9.png ",
+        "name":"Original Blend Coffee",
+        "price":"$12.99 / Pack",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    },
+    {
+        "id":9,
+        "img":"https://i.ibb.co/QnWHpRR/Image8.png ",
+        "name":"Energy Cookie",
+        "price":"$28 / Box (6 pieces)",
+        "bakery":"Minde Bakery",
+        "avatar":"https://i.ibb.co/jkwdVj2/Photo2.png"
+    }
+]
